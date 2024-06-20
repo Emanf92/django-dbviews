@@ -11,7 +11,9 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-
+    'pineapples',
+    'pens',
+    'penpineapples'
 ]
 
 # Database
